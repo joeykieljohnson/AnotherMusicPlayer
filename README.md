@@ -1,6 +1,7 @@
-# Metro
+# AMP: Another Music Player
 
-Material Design music player for Android music lovers
+Material Design music player for Android audiophiles and alike.
+(Forked from Metro)
 
 ## Downloads
 
@@ -8,7 +9,7 @@ Material Design music player for Android music lovers
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
 
-## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+## Differences between AMP and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Google Play libraries removed (fully libre)
 - Pro features available for free
 - Fully offline (INTERNET permission removed)
@@ -86,7 +87,9 @@ favorite songs. No other music player has this feature.
 -  Smart Auto Playlists - Recently played, most played and history
 -  Build your playlist on the go
 
-We are trying our best to bring you the best user experience. The app is regularly being updated for bug fixes and new features.
+I'm just here to add my own changes to my favourite Music Player.
+
+android is better
 
 ## 🗂️ License
 
